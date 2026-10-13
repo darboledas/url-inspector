@@ -1,0 +1,36 @@
+# Secretos y configuración local
+APIKEY.txt
+.env
+.env.*
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Salidas locales de prueba
+prueba_*
+
+# Cachés/editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Salidas batch locales
+batch_output/
+batch_results.csv
+batch_results.json
+
+# Backups y material privado
+URL_Inspector_MASTER_PRIVATE/
+*_MASTER_PRIVATE.zip
+APIKEY*.txt
+
+# Informes/artefactos locales que no deben publicarse por defecto
+benchmark_report_*/
+benchmark_results_*.json

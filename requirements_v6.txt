@@ -1,0 +1,6 @@
+requests>=2.31
+tldextract>=5.1
+dnspython>=2.6
+beautifulsoup4>=4.12
+cryptography>=42
+reportlab>=4.0

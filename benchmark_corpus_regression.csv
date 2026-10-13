@@ -1,0 +1,601 @@
+﻿sample_id,url,label,category,source,source_record_id,target,source_timestamp,rank,notes
+U0001,https://bitrixphone.com/,0,benign_reference,tranco,,,,2170,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0002,http://222.136.136.168:46469/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0003,https://recaptcha.net/,0,benign_reference,tranco,,,,792,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0004,https://sbc-verifier-sign-in-9d4b4f.webflow.io/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0005,https://chartboost.com/,0,benign_reference,tranco,,,,2376,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0006,http://allegrolokalnie.pl-754347742.click,1,phishing,phishtank,9506299,Allegro,2026-08-17T15:03:18+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0007,https://omni-dex.io/,0,benign_reference,tranco,,,,3044,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0008,https://qq.com.cn/,0,benign_reference,tranco,,,,4555,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0009,https://fcomet.com/,0,benign_reference,tranco,,,,4578,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0010,https://noka1001.lakemall.de/ga/click/2-5386484-139-1308-2576-1380-70d9ec16dc-0ef3953fdc,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0011,http://115.52.98.96:39274/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0012,https://gett-support-verify-info.start.page/,1,phishing,phishtank,8072004,Facebook,2023-03-12T17:15:27+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0013,http://176.65.139.239/iran.sparc,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0014,https://ldoteqdotecomtealiciamite.firebaseapp.com/,1,phishing,phishtank,8598377,Other,2024-06-03T10:53:11+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0015,https://cdn-vk.net/,0,benign_reference,tranco,,,,4255,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0016,https://akahost.net/,0,benign_reference,tranco,,,,1446,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0017,https://ttdns3.com/,0,benign_reference,tranco,,,,3387,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0018,https://he3ievt9eqx5l7ajl5vp.s3.amazonaws.com/g_27lo1ler_0kjb9xvy1_old0viul2xwakijyemokh3hfu4q.html,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0019,http://39.40.140.64:45134/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0020,https://hardened-php.net/,0,benign_reference,tranco,,,,4839,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0021,https://mi-img.com/,0,benign_reference,tranco,,,,1127,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0022,https://chicagobuzz.net/wwwwwwwwwuoieuoieiuoeoiuoui.html,1,phishing,phishtank,9482015,Other,2026-07-18T06:12:31+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0023,http://23.254.195.48:8099/bx_arm5.p,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0024,https://wordpress-1634361-6472352.cloudwaysapps.com/FYGD/auth/log.php,1,phishing,phishtank,9457592,Other,2026-06-19T13:22:24+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0025,https://avmtz7a.yourwebs.app/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0026,https://189.cn/,0,benign_reference,tranco,,,,4774,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0027,https://case100985610961296312610.web.app/,1,phishing,phishtank,7876563,Other,2022-10-22T22:12:17+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0028,https://nytimes.com/,0,benign_reference,tranco,,,,158,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0029,http://www.send-dt-bsc.vercel.app/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0030,https://mhmehadi.top/Cryptedd.ps1,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0031,https://security.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0032,https://jp.net/,0,benign_reference,tranco,,,,3859,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0033,https://password.webwindos-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0034,https://hudl.com/,0,benign_reference,tranco,,,,3796,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0035,http://btcba.github.io/posts/20250618,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0036,http://notifichedigit.top/it,1,phishing,phishtank,9481096,Other,2026-07-16T12:52:47+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0037,https://webs.com/,0,benign_reference,tranco,,,,2803,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0038,https://sattamatkano1.me/,0,benign_reference,tranco,,,,1858,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0039,https://openrouter.ai/,0,benign_reference,tranco,,,,3985,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0040,http://metamaskchromeextensionn.blogspot.com/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0041,https://app-alrt-swdojvirpwcpjo-dp222hguhdl0.edgeone.dev/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0042,https://sephora.com/,0,benign_reference,tranco,,,,4949,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0043,https://tbank.ru/,0,benign_reference,tranco,,,,940,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0044,https://live.com/,0,benign_reference,tranco,,,,25,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0045,https://sc.xsxdc.cam/,1,phishing,phishtank,9412775,Other,2026-05-02T23:02:46+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0046,https://shopee.vn/,0,benign_reference,tranco,,,,3696,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0047,https://shein.com/,0,benign_reference,tranco,,,,496,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0048,https://army.mil/,0,benign_reference,tranco,,,,2878,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0049,https://imrworldwide.com/,0,benign_reference,tranco,,,,760,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0050,https://howstuffworks.com/,0,benign_reference,tranco,,,,2857,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0051,https://dolynkcloud.com/,0,benign_reference,tranco,,,,4895,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0052,https://pub-2deedb30aff5494b826a955e4e27f0d5.r2.dev/index.html,1,phishing,phishtank,8603540,Other,2024-06-06T01:10:23+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0053,https://southwest.com/,0,benign_reference,tranco,,,,4249,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0054,http://222.140.158.225:45042/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0055,http://182.52.125.221:51224/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0056,http://89.43.223.227:37974/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0057,https://register.webwindos-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0058,https://godaddy.com/,0,benign_reference,tranco,,,,148,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0059,https://ezvizru.com/,0,benign_reference,tranco,,,,2642,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0060,https://samplicio.us/,0,benign_reference,tranco,,,,3363,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0061,https://laughing-octo-bassoon-7xxkcjcg-torqueelectricsllc-boop.4everland.app/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0062,https://vidaahub.com/,0,benign_reference,tranco,,,,581,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0063,https://ezoic.net/,0,benign_reference,tranco,,,,4497,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0064,https://eqtv.io/,0,benign_reference,tranco,,,,2866,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0065,https://awswaf.com/,0,benign_reference,tranco,,,,276,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0066,https://bluestacks.com/,0,benign_reference,tranco,,,,4852,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0067,https://earthlink.net/,0,benign_reference,tranco,,,,2147,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0068,https://www.pt-shopee7547.blogspot.com/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0069,https://zend.com/,0,benign_reference,tranco,,,,2588,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0070,https://macomnet.ru/,0,benign_reference,tranco,,,,3833,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0071,http://allegrolokalnie.pl-09622206.icu/oferta/garaz-blaszany-idealny-pod-schowek-na-budowe/74872,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0072,https://mxhaisyx.us.cc/5g/home.html,1,phishing,phishtank,9502410,Other,2026-08-11T03:32:40+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0073,http://175.150.93.234:32800/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0074,https://get.actiated.win/,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0075,https://adtng.com/,0,benign_reference,tranco,,,,4787,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0076,https://caiway.nl/,0,benign_reference,tranco,,,,4675,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0077,http://115.201.103.82:44499/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0078,http://217.60.195.161/install.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0079,https://jutarnji.hr/,0,benign_reference,tranco,,,,1455,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0080,https://static.webwindos-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0081,https://pub-5f2f857b92ce482495ce195168e73414.r2.dev/index.html,1,phishing,phishtank,9100942,Other,2025-05-16T15:22:38+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0082,https://123pdfonline.com/YrKTYbegvEvg0D0F/vnkodvvJtLcP09P0HD0q.html?8Tbmhv=7217fa89a63336fa58ee7012ec3bca26,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0083,http://www.competent-engelbart.193-33-164-2.plesk.page/app/index.php?view=main&id=fe661a7ce1525221bbc71f51539debb1,1,phishing,phishtank,9397844,Other,2026-04-19T15:32:30+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0084,http://service-terra.carlosamaral.workers.dev/?id=1524&amp;wsigin=?bradesco,1,phishing,phishtank,8686674,Other,2024-07-30T16:53:19+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0085,http://59.96.140.227:56524/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0086,https://gamespot.com/,0,benign_reference,tranco,,,,2724,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0087,http://www.eugene.com/,1,phishing,phishtank,7970038,ABSA Bank,2024-07-06T11:23:57+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0088,https://www.voitoua.com/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0089,https://verify.hn/,0,benign_reference,tranco,,,,1596,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0090,https://sciencedirect.com/,0,benign_reference,tranco,,,,222,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0091,http://sp13ct-bastor-biz-hurek-franil.pages.dev/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0092,https://pub-a327f9d03def4b07b51dba5303fc3620.r2.dev/ojubam.png,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0093,https://kxifaoz.info/7oBbyg,1,phishing,phishtank,9520599,Other,2026-09-08T19:02:22+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0094,https://amazon.in/,0,benign_reference,tranco,,,,697,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0095,https://enacdn.net/,0,benign_reference,tranco,,,,512,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0096,https://applyviza.net/pkl/pt,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0097,https://magazadamaga.com/magaoff/produto&?id=91&Kit-4-Cadeiras,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0098,http://allegrolokalnie.smart-92592.cfd/oferta/id-golvzzrnd0-basen-intex-ultra-xtr-frame-pool-549x274x132-cm-nowy-komplet-paragon,1,phishing,phishtank,9476637,Allegro,2026-07-12T16:22:40+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0099,https://sync.webwindos-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0100,https://aws-prd.net/,0,benign_reference,tranco,,,,2469,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0101,https://permutive.app/,0,benign_reference,tranco,,,,3327,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0102,https://instacart.com/,0,benign_reference,tranco,,,,2333,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0103,http://wfq92.vercel.app/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0104,https://mhlw.go.jp/,0,benign_reference,tranco,,,,3449,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0105,https://fc2.com/,0,benign_reference,tranco,,,,1921,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0106,https://auth-spectrum-net-login1.framer.ai/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0107,https://rostelecom.ru/,0,benign_reference,tranco,,,,3438,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0108,http://182.126.241.161:49444/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0109,https://tiktokv.com/,0,benign_reference,tranco,,,,83,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0110,https://geotrust.com/,0,benign_reference,tranco,,,,2449,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0111,https://dramaboxdb.com/,0,benign_reference,tranco,,,,4262,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0112,https://kucoinapps.b12sites.com/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0113,https://triunfobet.com/,0,benign_reference,tranco,,,,1784,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0114,http://124.94.208.194:51581/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0115,https://privacy.webwindos-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0116,https://mailerlite.com/,0,benign_reference,tranco,,,,4266,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0117,https://blovckvhanlogen.gitbook.io/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0118,https://dnse5.com/,0,benign_reference,tranco,,,,2766,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0119,http://125.40.35.137:44251/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0120,http://47.120.34.30:9118/linux,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0121,https://help-nifty.weebly.com/,1,phishing,phishtank,9089390,Other,2025-05-07T01:12:10+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0122,https://orderbox-dns.com/,0,benign_reference,tranco,,,,761,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0123,https://pay-network.vercel.app/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0124,https://razer.com/,0,benign_reference,tranco,,,,3801,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0125,https://statusgd-northstar-page.firebaseapp.com/,1,phishing,phishtank,8163479,Other,2023-06-03T00:22:35+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0126,https://microsoftonline.us/,0,benign_reference,tranco,,,,3680,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0127,https://missav.ws/,0,benign_reference,tranco,,,,1393,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0128,http://120.28.153.108:45634/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0129,https://aws.dev/,0,benign_reference,tranco,,,,117,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0130,http://114.228.0.107:42996/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0131,https://symantec.com/,0,benign_reference,tranco,,,,2212,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0132,https://jaishroff-org.myfreshworks.com/oauth/authorize?client_id=451980218021503405&redirect_uri=https%3A%2F%2Fcollinsoninsurance.freshdesk.com%2Ffreshid%2Fauthorize_callback%3Fhd%3Dhttps%3A%2F%2Fpostoffice.claimhere.co.uk&response_type=code&hd=collinsoninsurance.freshdesk.com,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0133,https://assurancessantes.com/,1,phishing,phishtank,9423229,Other,2026-05-13T05:12:33+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0134,http://115.49.1.206:43455/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0135,https://economist.com/,0,benign_reference,tranco,,,,1174,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0136,https://allegro.349j8j67202.shop/,1,phishing,phishtank,9463048,Allegro,2026-06-26T01:52:21+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0137,http://42.226.88.19:60275/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0138,http://105.186.111.168:49221/Mozi.a,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0139,https://nubanksaldo2.vercel.app/,1,phishing,phishtank,9536206,Other,2026-10-01T17:02:06+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0140,https://pymntupdtscureappwoergkamwergmakvjsjdk.poptour.com.ar/?kmgsdlvoe,1,phishing,phishtank,9379291,Other,2026-03-30T16:32:42+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0141,http://59.96.140.134:60111/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0142,https://trafficjunky.net/,0,benign_reference,tranco,,,,3054,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0143,http://61.52.228.233:55020/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0144,https://kargo.com/,0,benign_reference,tranco,,,,1916,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0145,https://trustpilot.com/,0,benign_reference,tranco,,,,353,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0146,https://onlamp.com/,0,benign_reference,tranco,,,,4797,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0147,https://csvhwubije.web.app/,1,phishing,phishtank,8077185,Other,2023-03-16T03:50:42+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0148,https://defense.gov/,0,benign_reference,tranco,,,,4423,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0149,https://xfinitymail-signin-kyc.weebly.com/,1,phishing,phishtank,9490829,Other,2026-07-29T21:32:27+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0150,http://allegrolokalnie.lokalna-ofera293945.lol/oferta/xiaomi-redmi-note-15-5g-pro-nowy-zapieczetowany/325387728,1,phishing,phishtank,9500393,Allegro,2026-08-08T09:32:26+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0151,https://odoo.com/,0,benign_reference,tranco,,,,938,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0152,https://chat.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0153,https://tutorial.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0154,https://dns-finder.com/,0,benign_reference,tranco,,,,3358,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0155,https://fool.com/,0,benign_reference,tranco,,,,3221,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0156,https://dnsip.com/,0,benign_reference,tranco,,,,2359,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0157,http://105.224.28.127:46639/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0158,https://5paalgxwvcd3wzsglg2k6nwi.vercel.app/?naps,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0159,https://developer.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0160,https://siemens.de/,0,benign_reference,tranco,,,,4559,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0161,https://whatsapp.checkleaked.cc/6285609115366,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0162,https://telekom.net/,0,benign_reference,tranco,,,,239,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0163,https://versmo.z13.web.core.windows.net/mon.html,1,phishing,phishtank,9443646,Other,2026-06-04T09:22:32+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0164,http://allegro.pl-ssid38673.click,1,phishing,phishtank,9373073,Allegro,2026-03-23T00:22:17+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0165,https://dev.to/,0,benign_reference,tranco,,,,3703,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0166,https://skyvegas.com/,0,benign_reference,tranco,,,,3622,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0167,https://daum.net/,0,benign_reference,tranco,,,,902,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0168,http://185.99.97.21:5001/one.exe,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0169,https://verkada.com/,0,benign_reference,tranco,,,,2370,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0170,https://cloudapp.net/,0,benign_reference,tranco,,,,3041,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0171,https://xhtv.today/,0,benign_reference,tranco,,,,1602,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0172,https://file.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0173,https://smallpdf.com/,0,benign_reference,tranco,,,,3789,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0174,https://navy.mil/,0,benign_reference,tranco,,,,3037,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0175,https://pewresearch.org/,0,benign_reference,tranco,,,,1948,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0176,https://1und1.de/,0,benign_reference,tranco,,,,4012,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0177,https://miitbeian.gov.cn/,0,benign_reference,tranco,,,,3156,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0178,https://si131514.github.io/website,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0179,http://allegro.pl-123458.lol,1,phishing,phishtank,9510032,Allegro,2026-08-24T09:03:11+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0180,https://miro.com/,0,benign_reference,tranco,,,,2426,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0181,https://zeradilcar.agency/support/s,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0182,https://attttttmail.boxmode.io/,1,phishing,phishtank,7967137,Other,2022-12-05T23:33:11+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0183,https://sozcu.com.tr/,0,benign_reference,tranco,,,,1463,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0184,http://sp15ct-zunvex-biz-qalren-korli.pages.dev/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0185,https://loteriadehoy.com/,0,benign_reference,tranco,,,,1810,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0186,http://krast-2.vercel.app/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0187,https://ep-in-zdc10oqyat2f-anb4b9h8htbde6hs.z01.azurefd.net/Ma20cErrfb020/index.html,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0188,https://escort.club/,0,benign_reference,tranco,,,,1770,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0189,https://kabav.top/wngyj7td/Dsd03j/He3IhT,1,phishing,phishtank,9499313,Other,2026-08-07T10:52:20+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0190,https://subito.it/,0,benign_reference,tranco,,,,1369,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0191,https://awsdns-47.com/,0,benign_reference,tranco,,,,3484,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0192,https://blacktoon418.com/,0,benign_reference,tranco,,,,1882,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0193,http://222.139.38.170:37375/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0194,http://42.230.38.212:49512/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0195,https://ugtelset.ru/,0,benign_reference,tranco,,,,4731,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0196,https://offupdatz.wixsite.com/my-site-1,1,phishing,phishtank,9467933,Other,2026-07-02T07:52:34+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0197,https://hik-connect.com/,0,benign_reference,tranco,,,,1922,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0198,http://119.179.254.21:46193/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0199,https://depoter-550e0.firebaseapp.com/,1,phishing,phishtank,8759866,Other,2024-09-14T01:53:04+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0200,https://bradesco.analiseempresanet.info/,1,phishing,phishtank,9474567,Other,2026-07-10T19:32:51+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0201,https://entrepreneur.com/,0,benign_reference,tranco,,,,2580,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0202,https://helsinki.fi/,0,benign_reference,tranco,,,,4308,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0203,https://tlivecdn.com/,0,benign_reference,tranco,,,,4651,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0204,https://f5.com/,0,benign_reference,tranco,,,,86,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0205,https://imitsart.wixstudio.com/i-id/expertise,1,phishing,phishtank,9405599,Other,2026-04-27T09:32:26+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0206,https://inxxx.com/,0,benign_reference,tranco,,,,1485,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0207,http://bloxbadge.netlify.app/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0208,https://tiktokrow-cdn.com/,0,benign_reference,tranco,,,,1086,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0209,https://arin.net/,0,benign_reference,tranco,,,,4762,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0210,https://citrix.com/,0,benign_reference,tranco,,,,3031,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0211,https://gibddru.vercel.app/?download=1,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0212,http://182.239.81.126:51391/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0213,https://joinmassive.com/,0,benign_reference,tranco,,,,2634,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0214,https://mynewtonmfg.web.app/,1,phishing,phishtank,8048683,Other,2023-02-24T23:12:20+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0215,http://119.115.161.6:43861/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0216,https://hatena.ne.jp/,0,benign_reference,tranco,,,,2435,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0217,https://skycdn.it/,0,benign_reference,tranco,,,,2916,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0218,http://bafkreif4avj7xqz25ftc6h5oobt4c2zrfht3pgkfv63loabq6zsh25n4ju.ipfs.dweb.link/,1,phishing,phishtank,9465274,Other,2026-06-29T03:52:30+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0219,https://ms.now/,0,benign_reference,tranco,,,,4866,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0220,https://wnacg.com/,0,benign_reference,tranco,,,,1667,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0221,https://archive.is/,0,benign_reference,tranco,,,,1906,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0222,https://s.team-um.com/lp/sst-cgj/jrqzozej/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0223,https://ios.webwindos-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0224,https://signinattcomdynamicilriaploginchbfzjc71k.domainsyncalpha.workers.dev/home.php?usrid=AxJ8CtqE80JzDMFrwd3f0WCYQgN4QnLprz0VcQLKDhK5Wb2x5kOVB4MUKPMw2d9dMk8pHs21e3FC1TW2ZehnDWw6hlsOawmsuhUVrgW0hRiWmgDIWL9HCxIfYXJ3b29kdEBiZWxsc291dGgubmV0nB8ZUtaZf2pBY5MyeuJqC2Sqn9Diy1FvI6CdKxQrh91m5CdB4p,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0225,https://independencedso.com/wp-content/plugins/booked/dist/js/2026/php/details.php?lang=en,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0226,https://www.infora.duckdns.org/,1,phishing,phishtank,9541102,Other,2026-10-09T16:11:12+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0227,http://mghub.phemayameltahub.site/,1,phishing,phishtank,9492252,Other,2026-07-31T16:42:39+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0228,https://github.io/,0,benign_reference,tranco,,,,128,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0229,https://vk-analytics.ru/,0,benign_reference,tranco,,,,1061,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0230,http://154.83.85.63:47991/dep_kr29.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0231,https://unwomen.org/,0,benign_reference,tranco,,,,4700,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0232,https://rbxcdn.com/,0,benign_reference,tranco,,,,238,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0233,https://awsdns-54.com/,0,benign_reference,tranco,,,,3496,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0234,https://orf.at/,0,benign_reference,tranco,,,,3432,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0235,https://vanderbilt.edu/,0,benign_reference,tranco,,,,4347,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0236,https://posthog.com/,0,benign_reference,tranco,,,,2198,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0237,https://videotron819.weebly.com/,1,phishing,phishtank,8904551,Other,2024-12-16T17:03:26+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0238,http://113.239.196.25:51478/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0239,https://pntfp.top/?secure_connect=uj2*fc*&_subid=2k43195.33.vo4q&_token=3dso6qq1rtokug.1779715133.1.8555670641a21b7814d51ceedb56a9c6,1,phishing,phishtank,9433184,Other,2026-05-24T21:22:34+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0240,https://hadronid.net/,0,benign_reference,tranco,,,,3614,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0241,http://182.121.170.9:50668/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0242,https://grussegeh.firebaseapp.com/,1,phishing,phishtank,8009831,Other,2023-01-18T21:42:16+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0243,https://fedoraproject.org/,0,benign_reference,tranco,,,,1566,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0244,http://allegro.92381928h75.rest/,1,phishing,phishtank,9521479,Allegro,2026-09-09T16:21:56+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0245,http://209.99.191.42/PrintSpoofer64.exe,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0246,https://ytjcdq.com/detail/nibmsvjgfy,1,phishing,phishtank,9510231,Other,2026-08-24T14:52:15+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0247,https://onmicrosoft.com/,0,benign_reference,tranco,,,,2235,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0248,https://xboxlive.com/,0,benign_reference,tranco,,,,666,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0249,http://27.215.120.165:57495/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0250,http://59.96.138.118:42377/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0251,https://ciscospark.com/,0,benign_reference,tranco,,,,3208,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0252,https://xpgsytpz.r.ap-south-1.awstrack.me/I0/01090197f9b31c85-3a990c1c-5c99-4a25-b83d-e1c0b05a57e7-000000/MsBoo1pYCKlxXLHFrFIuDmTkmr0=215,1,phishing,phishtank,9153032,Internal Revenue Service,2025-07-16T12:22:14+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0253,https://bitrix24.ru/,0,benign_reference,tranco,,,,548,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0254,https://domappcheckomeg23.firebaseapp.com/,1,phishing,phishtank,7560820,Other,2022-06-21T00:12:56+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0255,http://www.daripentozentopexi.life/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0256,https://etorrologon.wixstudio.com/login-en,1,phishing,phishtank,9447365,Other,2026-06-08T14:52:24+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0257,https://triplinkintl.com/,0,benign_reference,tranco,,,,118,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0258,https://lo-ja-ma-galu-store.com/produto/ar-condicionado-split-hi-wall-,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0259,https://ptt.cc/,0,benign_reference,tranco,,,,1484,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0260,https://mindelvet.cv/wp-admin/js/RR/danske/pankki/auth-login/index.php,1,phishing,phishtank,9334561,Other,2026-02-05T21:51:55+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0261,https://insightexpressai.com/,0,benign_reference,tranco,,,,3594,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0262,https://finanzen.net/,0,benign_reference,tranco,,,,4934,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0263,http://94.154.43.211/main_arm5,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0264,https://securegatewayaccess.com/,0,benign_reference,tranco,,,,3474,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0265,http://allegrolokalnie.8321712.shop,1,phishing,phishtank,9449770,Allegro,2026-06-11T04:22:24+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0266,https://cnblogs.com/,0,benign_reference,tranco,,,,4699,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0267,https://timeweb.ru/,0,benign_reference,tranco,,,,411,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0268,https://bdvusuario11.webcindario.com/,1,phishing,phishtank,9401384,Other,2026-04-22T21:22:04+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0269,http://123.190.202.111:59249/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0270,http://61.52.116.218:54866/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0271,https://google.co.za/,0,benign_reference,tranco,,,,3662,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0272,https://bb.com.br/,0,benign_reference,tranco,,,,3654,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0273,https://ucsf.edu/,0,benign_reference,tranco,,,,4276,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0274,https://othugrcorreosvo.weebly.com/,1,phishing,phishtank,9049924,Other,2025-04-06T21:12:31+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0275,https://history.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0276,https://mediagotechnology.com/,0,benign_reference,tranco,,,,3345,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0277,https://nosv.org/,0,benign_reference,tranco,,,,1476,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0278,https://android.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0279,https://dropboxusercontent.com/,0,benign_reference,tranco,,,,2400,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0280,https://romeopirlanta.com/img_003307.png,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0281,https://trzor-io-eng.wixstudio.com/signin,1,phishing,phishtank,9405675,Other,2026-04-27T11:21:39+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0282,https://l2xh2ov6ux3un-pages-dev.translate.goog/site4.sbisec.co.jp.html?_x_tr_sch=&amp;_x_tr_sl=monex&amp;_x_tr_tl=ja,1,phishing,phishtank,9109599,Other,2025-05-26T01:42:19+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0283,https://4c2c4ct24t.pages.dev/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0284,https://easydns.com/,0,benign_reference,tranco,,,,3920,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0285,https://ay.delivery/,0,benign_reference,tranco,,,,2252,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0286,https://cloud.com/,0,benign_reference,tranco,,,,1962,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0287,http://182.126.81.217:41612/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0288,https://pub-24de419def914f7d9f9b17c6c6bbb7bd.r2.dev/enter.html?Yacht366#x@x.com,1,phishing,phishtank,9054461,Other,2025-04-10T04:02:57+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0289,http://ziyyvj.mgshiguan.com/,1,phishing,phishtank,9540418,Other,2026-10-09T11:11:35+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0290,https://state.gov/,0,benign_reference,tranco,,,,949,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0291,https://indexmalwebmail.weebly.com/,1,phishing,phishtank,9354461,Other,2026-02-26T14:22:33+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0292,https://burmelo-mpt-funqari-r8x5me73.pages.dev/thn-yjm-uio-lkh,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0293,https://crunchbase.com/,0,benign_reference,tranco,,,,3141,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0294,https://360safe.com/,0,benign_reference,tranco,,,,928,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0295,https://allegrolokalne.pl55998.top/oferta/apple-ipad-11-a16-128gb-wi-fi-apple-pencil-100-bateria-gwarancja-473jm,1,phishing,phishtank,9519974,Allegro,2026-09-07T22:31:52+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0296,https://shipnexa.pages.dev/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0297,https://duke.edu/,0,benign_reference,tranco,,,,2231,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0298,http://176.65.149.210/bins/x86,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0299,http://222.140.196.83:48958/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0300,https://inscloudgate.net/,0,benign_reference,tranco,,,,4603,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0301,https://featureassets.org/,0,benign_reference,tranco,,,,915,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0302,https://online-review-payee.firebaseapp.com/,1,phishing,phishtank,8337960,Other,2023-10-20T01:13:10+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0303,https://statuspage.io/,0,benign_reference,tranco,,,,1069,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0304,http://42.227.44.40:34648/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0305,https://bik.standard.us-east-1.oortstorages.com/ineq.znc?eta,1,phishing,phishtank,9355771,Other,2026-02-27T18:03:15+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0306,http://222.219.74.88:50455/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0307,http://123.9.200.156:42154/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0308,https://cbl.gov.ly/,0,benign_reference,tranco,,,,1798,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0309,https://imagemagick.org/,0,benign_reference,tranco,,,,3110,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0310,https://manchester.ac.uk/,0,benign_reference,tranco,,,,4925,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0311,http://sp15ct-norzel-biz-qavix-murvo.pages.dev/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0312,https://weibocdn.com/,0,benign_reference,tranco,,,,3209,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0313,https://heylink.me/,0,benign_reference,tranco,,,,2877,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0314,https://samsungcloudsolution.com/,0,benign_reference,tranco,,,,390,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0315,https://correios.com.br/,0,benign_reference,tranco,,,,4873,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0316,http://123.5.169.0:44704/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0317,https://org.ru/,0,benign_reference,tranco,,,,4059,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0318,https://stripe.com/,0,benign_reference,tranco,,,,236,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0319,https://entrust.net/,0,benign_reference,tranco,,,,3734,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0320,https://spov-msedge.net/,0,benign_reference,tranco,,,,247,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0321,https://guide.webwindos-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0322,https://www.roblox.com.gr/communities/642291738400/Jailbreak-Dupers,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0323,http://58.23.80.161:41687/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0324,http://115.55.225.187:35091/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0325,https://xi-rutor.top/,0,benign_reference,tranco,,,,4299,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0326,https://ambil10jtkonfirmasiskrngg.pages.dev/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0327,http://59.180.159.181:32928/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0328,https://kleinanzeigen.010jdt.com/813553465?mail=W0dSSVpaTFld&meta=rlWjMKWwLJ50LJqyVwb1YPWhLJ1yVwbvKUIxBQAxKUIxLmAvVRqlnKc6oUxtGJScoTIlVvjvL2uuqS9cMPV6YGRjZQZmAwtkAmN3AQLfVaAypaMcL2HvBvWeoTIcozShrzIcM2IhVvjvqUyjMFV6VzqlnKc6oUysoJScoTIlVa0%3D,1,phishing,phishtank,9437974,Other,2026-05-29T15:22:33+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0329,http://120.84.213.191:34870/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0330,https://clinch.co/,0,benign_reference,tranco,,,,3980,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0331,https://s-fa31f3-i.sgizmo.com/s3/i-WKQx0vsXeJEDt0EvJn-5035322/?sguid=WKQx0vsXeJEDt0EvJn,1,phishing,phishtank,7441434,Other,2022-02-10T20:11:33+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0332,https://sync.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0333,https://security.webwindos-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0334,https://jacobrhubbard.github.io/,1,phishing,phishtank,8968020,Other,2025-02-09T05:32:26+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0335,https://fuchsia-alpaca-773626.framer.app/,1,phishing,phishtank,9392795,Other,2026-04-14T14:42:05+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0336,http://203.34.241.171:41386/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0337,https://xn--42cf7cgd7gxbd4m7c.cc/,0,benign_reference,tranco,,,,1835,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0338,https://sbcglobal.net/,0,benign_reference,tranco,,,,2120,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0339,https://dropboxapi.com/,0,benign_reference,tranco,,,,2600,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0340,https://usps.us-nqzqo.life/,1,phishing,phishtank,9513567,Other,2026-08-29T22:51:54+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0341,https://ep-il-0fasdbs0aijv-cwdjfcgzetgcgze0.z01.azurefd.net/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0342,https://doubleclick.net/,0,benign_reference,tranco,,,,43,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0343,https://ww.grv5781752.pro,1,phishing,phishtank,9527376,Other,2026-09-18T09:02:03+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0344,https://bigcartel.com/,0,benign_reference,tranco,,,,2363,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0345,https://preply.com/,0,benign_reference,tranco,,,,4553,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0346,http://trezr-iostrt-cloud.framer.ai/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0347,https://eg1xbet.com/en/block,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0348,https://cyberark.com/,0,benign_reference,tranco,,,,4263,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0349,http://sp15ct-melrox-biz-zunel-tavri.pages.dev/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0350,https://mcusercontent.com/,0,benign_reference,tranco,,,,4388,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0351,https://gv0al9.info/7oBbyg,1,phishing,phishtank,9520781,Other,2026-09-08T20:11:44+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0352,https://desync.com/,0,benign_reference,tranco,,,,4809,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0353,https://g4-valley.vercel.app/,1,phishing,phishtank,9459837,Other,2026-06-22T15:32:54+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0354,https://gvt1.com/,0,benign_reference,tranco,,,,60,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0355,http://staytruthnomilowe.lol/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0356,https://various-cause-653755.framer.app/,1,phishing,phishtank,9478901,Other,2026-07-14T15:52:35+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0357,https://straitstimes.com/,0,benign_reference,tranco,,,,4036,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0358,https://smi2.ru/,0,benign_reference,tranco,,,,2947,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0359,https://nypost.com/,0,benign_reference,tranco,,,,1144,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0360,https://lnk.ink/a73aa,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0361,https://ahrefs.com/,0,benign_reference,tranco,,,,2177,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0362,https://docs.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0363,http://168.119.85.190/bash.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0364,https://redirect-eaglecomsupport.weebly.com/,1,phishing,phishtank,9425973,Other,2026-05-16T22:52:05+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0365,https://cognitivlabs.com/,0,benign_reference,tranco,,,,4287,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0366,https://plusgratis.weebly.com/,1,phishing,phishtank,9466342,Other,2026-06-30T04:22:36+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0367,https://64464id.weebly.com/,1,phishing,phishtank,9104953,Other,2025-05-20T09:02:48+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0368,https://haxx.se/,0,benign_reference,tranco,,,,3023,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0369,https://kunlunsl.com/,0,benign_reference,tranco,,,,2825,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0370,https://mobiledokan.com/,0,benign_reference,tranco,,,,1779,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0371,https://doh.pub/,0,benign_reference,tranco,,,,4626,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0372,https://ikea.com/,0,benign_reference,tranco,,,,639,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0373,https://techlab-cdn.com/,0,benign_reference,tranco,,,,4335,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0374,https://io-okxx.wixstudio.com/us-en,1,phishing,phishtank,9446697,Other,2026-06-08T00:52:28+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0375,http://42.230.190.172:55630/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0376,https://claude.com/,0,benign_reference,tranco,,,,2420,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0377,https://personas-svp.vercel.app/,1,phishing,phishtank,9420883,Other,2026-05-10T17:42:23+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0378,https://dagbladet.no/,0,benign_reference,tranco,,,,1404,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0379,http://39.90.146.181:46716/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0380,https://www.roblox.rw/users/139430057748/profile,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0381,https://status.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0382,http://216.126.86.21:40897/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0383,https://keych.org/kjq1nbh/cbtgyri/uwzafn1/Revalidate/hinet/sort/ccd/index.php,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0384,https://axon.ai/,0,benign_reference,tranco,,,,2382,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0385,https://telstra.net/,0,benign_reference,tranco,,,,4536,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0386,http://139.95.24.51:8081/?h=139.95.24.51&p=8081&t=tcp&a=w64&stage=true,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0387,https://serviceadhelpmeta.web.app/,1,phishing,phishtank,7663541,Other,2022-08-19T00:12:20+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0388,http://paypall-login.blogspot.com/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0389,http://105.184.26.233:41319/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0390,https://vercel.app/,0,benign_reference,tranco,,,,624,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0391,https://yahoo.cloud/,0,benign_reference,tranco,,,,2757,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0392,https://2678xwt.top/a4nppaq2/bmA08C/594CKh,1,phishing,phishtank,9427267,Other,2026-05-18T14:12:26+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0393,https://https-wwwv-roblox.co/games/16732694052/Fisch--BIRTHDAY?privateServerLinkCode=13781807570245699824507987590366,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0394,http://uspss.pages.dev/entreg/LoginAction_input%25252CN/A%25252Chttps%25253A/www.googleoptimize.com,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0395,https://prerna-kumari203.github.io/amazon-clone/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0396,https://sensic.net/,0,benign_reference,tranco,,,,2990,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0397,https://superporn.com/,0,benign_reference,tranco,,,,1572,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0398,https://discogs.com/,0,benign_reference,tranco,,,,857,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0399,https://sawyer-cloud.github.io/Spotify,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0400,https://awmdm.com/,0,benign_reference,tranco,,,,3231,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0401,https://gst.gov.in/,0,benign_reference,tranco,,,,1356,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0402,https://coca-cola.com/,0,benign_reference,tranco,,,,3258,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0403,https://youronlinechoices.com/,0,benign_reference,tranco,,,,1041,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0404,https://amazon.it/,0,benign_reference,tranco,,,,743,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0405,https://restore.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0406,https://polybuzz.ai/,0,benign_reference,tranco,,,,1319,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0407,http://176.65.139.220/amd64,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0408,https://cq515559.tw1.ru/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0409,https://222133ww3.weebly.com/,1,phishing,phishtank,9351313,Other,2026-02-22T18:22:28+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0410,https://varzesh3.com/,0,benign_reference,tranco,,,,1370,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0411,http://www.9rnax.tenant-bio90427981.com/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0412,http://41.216.227.228:49429/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0413,https://phncdn.com/,0,benign_reference,tranco,,,,1242,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0414,http://36.251.171.153:59323/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0415,https://pub-8e411aa6ac6541b586ec1b135f778421.r2.dev/link.html,1,phishing,phishtank,8370861,Microsoft,2023-11-20T21:33:12+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0416,https://syncingbridge.com/,0,benign_reference,tranco,,,,3357,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0417,https://okxxx1.com/,0,benign_reference,tranco,,,,1631,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0418,https://www.dpdlocoyu.cyou/com,1,phishing,phishtank,9425081,Other,2026-05-15T15:52:22+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0419,https://about.me/,0,benign_reference,tranco,,,,3130,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0420,https://archlinux.org/,0,benign_reference,tranco,,,,2717,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0421,https://ul60ezvizj2.wixsite.com/my-site-1,1,phishing,phishtank,9420281,Other,2026-05-09T13:32:36+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0422,http://123.14.114.97:35867/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0423,https://remove.bg/,0,benign_reference,tranco,,,,1231,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0424,http://39.79.138.192:39415/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0425,http://meduskin.vn/wp-admin/rgh35h6yu6/onetime.html,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0426,https://userbhd2026.webcindario.com,1,phishing,phishtank,9307665,Other,2026-01-08T17:21:52+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0427,https://xin8-dgbngthudkapdmeh.z02.azurefd.net/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0428,https://weibo.cn/,0,benign_reference,tranco,,,,2606,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0429,http://221.14.41.222:53006/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0430,http://59.96.139.238:53045/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0431,https://ow.ly/,0,benign_reference,tranco,,,,4877,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0432,https://www.sri2546.com/?ZHOz5NIEC9OC&amp;type=dpoint,1,phishing,phishtank,9442131,Other,2026-06-03T00:52:34+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0433,https://secb2b.com/,0,benign_reference,tranco,,,,3097,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0434,https://skipthegames.com/,0,benign_reference,tranco,,,,1718,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0435,https://kaspi.kz/,0,benign_reference,tranco,,,,1283,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0436,https://engadget.com/,0,benign_reference,tranco,,,,2224,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0437,https://jamanetwork.com/,0,benign_reference,tranco,,,,2049,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0438,https://netbird.io/,0,benign_reference,tranco,,,,3914,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0439,https://ser.cn-ltd-28quan.com/m,1,phishing,phishtank,9473831,Other,2026-07-10T01:22:48+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0440,https://google.no/,0,benign_reference,tranco,,,,3892,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0441,http://119.189.249.202:39164/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0442,https://my-site-108036-105622.weeblysite.com/,1,phishing,phishtank,9397547,Other,2026-04-19T11:11:56+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0443,https://xserver.jp/,0,benign_reference,tranco,,,,1208,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0444,http://112.140.190.99:51506/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0445,https://tubi.video/,0,benign_reference,tranco,,,,4538,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0446,https://23c23c3z.pages.dev/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0447,https://fedex.com/,0,benign_reference,tranco,,,,1930,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0448,https://mperutyy.web.app/,1,phishing,phishtank,8867874,Other,2024-11-24T17:12:43+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0449,https://jamfcloud.com/,0,benign_reference,tranco,,,,1451,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0450,https://trzexurwilsete.gitbook.io/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0451,https://eventbrite.co.uk/,0,benign_reference,tranco,,,,3427,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0452,https://flickr.com/,0,benign_reference,tranco,,,,187,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0453,https://sprinthost.ru/,0,benign_reference,tranco,,,,1961,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0454,https://home-meteora-us.wixstudio.com/us-en,1,phishing,phishtank,9448225,Other,2026-06-09T08:22:35+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0455,https://unep.org/,0,benign_reference,tranco,,,,3247,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0456,http://115.52.19.185:59423/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0457,https://auth-secure.me/E.wQendAjLQioz85A?/workitems/3ont208h/WorkItemMention/VGhpcyBtaWdodCBiZSBhIEhveGh1bnQgc2ltdWxhdGlvbi4gT25seSBvbmUgd2F5IHRvIGZpbmQgb3V0Li4u,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0458,https://profile.webwindos-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0459,https://pikabu.ru/,0,benign_reference,tranco,,,,889,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0460,https://edgekey.net/,0,benign_reference,tranco,,,,74,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0461,https://hotstar.com/,0,benign_reference,tranco,,,,4135,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0462,https://iubenda.com/,0,benign_reference,tranco,,,,2051,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0463,https://mirror.co.uk/,0,benign_reference,tranco,,,,2271,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0464,https://en_us-official.teachable.com/p/home,1,phishing,phishtank,9302460,Other,2025-12-31T16:42:16+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0465,https://jsdelivr.net/,0,benign_reference,tranco,,,,308,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0466,https://weforum.org/,0,benign_reference,tranco,,,,1028,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0467,https://honor.com/,0,benign_reference,tranco,,,,3305,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0468,https://dropbox.com/,0,benign_reference,tranco,,,,129,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0469,https://mailling.viadifiraniecolebro.com,1,phishing,phishtank,9496740,Other,2026-08-04T19:03:07+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0470,https://scopus.com/,0,benign_reference,tranco,,,,3756,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0471,http://60.23.235.152:35105/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0472,https://youku.com/,0,benign_reference,tranco,,,,955,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0473,https://fastingegoogru.vercel.app/?download=1,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0474,https://backup.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0475,https://aka.ms/,0,benign_reference,tranco,,,,1589,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0476,https://fa-1464303226.cos.ap-guangzhou.myqcloud.com/fa.y,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0477,https://centre-dentaire-bat.com/bromcom/bromcom.htm,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0478,https://githubcopilot.com/,0,benign_reference,tranco,,,,4099,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0479,http://222.140.183.43:37860/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0480,https://trello.com/,0,benign_reference,tranco,,,,1941,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0481,https://pippio.com/,0,benign_reference,tranco,,,,4112,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0482,https://bsgslb.com/,0,benign_reference,tranco,,,,2814,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0483,https://wsglb0.com/,0,benign_reference,tranco,,,,2487,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0484,https://eldiario.es/,0,benign_reference,tranco,,,,4407,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0485,http://182.183.145.184:53147/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0486,https://man7.org/,0,benign_reference,tranco,,,,3420,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0487,https://archiveofourown.org/,0,benign_reference,tranco,,,,1104,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0488,https://js.org/,0,benign_reference,tranco,,,,3979,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0489,https://mediatek.com/,0,benign_reference,tranco,,,,521,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0490,https://capitalone.com/,0,benign_reference,tranco,,,,2796,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0491,https://gomxuanhoa.com/wp-content/themes/,1,phishing,phishtank,9264432,Other,2025-11-11T09:22:17+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0492,https://xvv1deos.com/,0,benign_reference,tranco,,,,1632,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0493,http://175.147.52.132:37667/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0494,https://google.co.kr/,0,benign_reference,tranco,,,,3735,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0495,https://signin.broker/E.Q8qA41HXAEMnGXQ?/workitems/3ont208h/WorkItemMention/VGhpcyBtaWdodCBiZSBhIEhveGh1bnQgc2ltdWxhdGlvbi4gT25seSBvbmUgd2F5IHRvIGZpbmQgb3V0Li4u,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0496,https://activision.com/,0,benign_reference,tranco,,,,4523,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0497,http://180.76.52.207:6334/linux,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0498,https://zimbraupdatee.weebly.com/,1,phishing,phishtank,9006263,Other,2025-03-07T16:12:33+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0499,https://imgur.com/,0,benign_reference,tranco,,,,764,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0500,https://shivamkohli1989.github.io/a-pppllee449/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0501,http://182.113.36.149:40248/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0502,https://ytimg.com/,0,benign_reference,tranco,,,,113,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0503,https://azureedge.net/,0,benign_reference,tranco,,,,234,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0504,http://61.137.129.154:47459/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0505,https://doppiocdn.com/,0,benign_reference,tranco,,,,2310,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0506,https://kwai.com/,0,benign_reference,tranco,,,,998,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0507,https://gatech.edu/,0,benign_reference,tranco,,,,3599,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0508,https://hbo.com/,0,benign_reference,tranco,,,,4020,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0509,https://mamoud.suiv-expd002.pro/as.php,1,phishing,phishtank,9402478,Other,2026-04-23T20:21:47+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0510,https://histats.com/,0,benign_reference,tranco,,,,2774,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0511,https://sndcdn.com/,0,benign_reference,tranco,,,,4850,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0512,https://spectrum.com/,0,benign_reference,tranco,,,,171,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0513,http://115.55.58.156:37955/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0514,https://ydparty06.tv/,0,benign_reference,tranco,,,,1869,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0515,https://zalando.de/,0,benign_reference,tranco,,,,4979,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0516,https://orange.fr/,0,benign_reference,tranco,,,,1145,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0517,https://5movierulz.pictures/,0,benign_reference,tranco,,,,1881,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0518,https://courielvideotron.weebly.com/,1,phishing,phishtank,8913892,Other,2024-12-22T22:12:38+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0519,https://repubblica.it/,0,benign_reference,tranco,,,,965,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0520,https://135461223.site/sv/1780/27707926091233386-15632590489119/761274/x,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0521,https://pananames.com/,0,benign_reference,tranco,,,,4053,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0522,https://infomaniak.ch/,0,benign_reference,tranco,,,,3596,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0523,http://42.238.165.250:36611/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0524,https://nipr.mil/,0,benign_reference,tranco,,,,2457,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0525,https://cymru.com/,0,benign_reference,tranco,,,,2379,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0526,https://privacy.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0527,https://img.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0528,https://zebra.com/,0,benign_reference,tranco,,,,3532,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0529,https://pub-80fb550826904a048a5391946ef49a69.r2.dev/web.html,1,phishing,phishtank,8355832,Other,2023-11-07T01:04:44+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0530,https://vesrsionpluspropre.firebaseapp.com/,1,phishing,phishtank,8125322,Other,2023-04-23T03:26:45+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0531,https://dmoz.org/,0,benign_reference,tranco,,,,3100,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0532,https://accountsverifypro1790922476758.1990065.misitiohostgator.com/l/a/h/card.php/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0533,https://eci.gov.in/,0,benign_reference,tranco,,,,1512,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0534,https://fluffy-guacamole-gsonuo5r-torqueelectricsllc-boop.4everland.app/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0535,https://bhb-107033.weeblysite.com/,1,phishing,phishtank,9494380,Other,2026-08-02T14:52:31+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0536,https://supercdn.ru/,0,benign_reference,tranco,,,,2639,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0537,http://162.35.243.63/backup/winki.mips,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0538,https://faq.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0539,https://privacy-mgmt.com/,0,benign_reference,tranco,,,,1139,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0540,https://moviesdatamil.net/,0,benign_reference,tranco,,,,1888,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0541,https://xvideos2.com/,0,benign_reference,tranco,,,,1507,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0542,https://sumalegapa.z16.web.core.windows.net/,1,phishing,phishtank,9525229,Other,2026-09-15T07:11:25+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0543,https://dpd.si-com.sbs/dpd/kako-deluje,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0544,https://loobygamesonline.com/,0,benign_reference,tranco,,,,1464,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0545,https://xhplus.live/,0,benign_reference,tranco,,,,1568,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0546,https://bt.com/,0,benign_reference,tranco,,,,2979,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0547,https://www.cq515559.tw1.ru/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0548,https://group.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0549,https://onenote.net/,0,benign_reference,tranco,,,,4005,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0550,http://www.administrabogotasubetucupo.com/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0551,http://194.54.161.214:53153/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0552,https://gr.com/,0,benign_reference,tranco,,,,4619,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0553,http://27.24.40.180:50081/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0554,https://spotify.com/,0,benign_reference,tranco,,,,70,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0555,http://175.165.82.249:56624/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0556,http://91.219.167.155:11206/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0557,https://criteo.com/,0,benign_reference,tranco,,,,155,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0558,http://101.108.150.73:41727/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0559,https://nease.net/,0,benign_reference,tranco,,,,500,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0560,https://britishcouncil.org/,0,benign_reference,tranco,,,,4148,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0561,https://facebook-carol.blogspot.com/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0562,https://www.solicitud-gamer-i1cg.vercel.app/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0563,http://115.48.41.100:55799/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0564,http://27.37.229.118:38849/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0565,http://123.11.14.145:57345/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0566,https://uu.net/,0,benign_reference,tranco,,,,3817,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0567,https://awsdns-38.com/,0,benign_reference,tranco,,,,3678,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0568,https://onenote.com/,0,benign_reference,tranco,,,,3636,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0569,https://awsdns-03.com/,0,benign_reference,tranco,,,,3062,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0570,https://lechefducartelle.firebaseapp.com/,1,phishing,phishtank,8130953,Other,2023-04-28T02:25:49+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0571,https://nginx.org/,0,benign_reference,tranco,,,,77,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0572,https://windows.webwindos-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0573,https://hs-scripts.com/,0,benign_reference,tranco,,,,3490,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0574,http://180.252.210.87:46043/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0575,https://nokia.com/,0,benign_reference,tranco,,,,2978,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0576,https://logitech.com/,0,benign_reference,tranco,,,,2084,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0577,https://gamesoftrobo.ghost.io/if-you-absolutely-wont-read-manga/,1,phishing,phishtank,9419423,Other,2026-05-08T14:03:08+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0578,https://maxisou.com/mymaxis,1,phishing,phishtank,9470226,Other,2026-07-06T03:52:27+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0579,http://42.177.197.176:45748/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0580,https://gameloft.com/,0,benign_reference,tranco,,,,4109,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0581,http://105.184.158.253:37135/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0582,https://allegrolokalnie.pl-oferta31134.click,1,phishing,phishtank,9460141,Allegro,2026-06-22T21:33:09+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0583,http://115.53.247.75:42289/bin.sh,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0584,http://42.228.46.146:57875/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0585,https://finam.ru/,0,benign_reference,tranco,,,,3875,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0586,http://175.165.80.115:37534/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0587,https://ucdavis.edu/,0,benign_reference,tranco,,,,2463,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0588,http://182.183.189.30:54523/i,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0589,https://toutiao.com/,0,benign_reference,tranco,,,,2848,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0590,https://courrielweb66.weebly.com/,1,phishing,phishtank,9284545,Other,2025-12-05T20:42:30+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0591,https://dan.com/,0,benign_reference,tranco,,,,4973,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0592,https://service-update-online-hf78hv.boxmode.io/,1,phishing,phishtank,8048492,Other,2023-02-24T22:11:55+00:00,,PhishTank online-valid: verificado y online en el momento del feed.
+U0593,https://ec-lyon.fr/,0,benign_reference,tranco,,,,3613,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0594,http://212.2.35.14/9E2J3518,1,malware,urlhaus,,,,,URLhaus recent export: URL asociada a distribución de malware según URLhaus.
+U0595,https://samsungcloudsolution.net/,0,benign_reference,tranco,,,,1082,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0596,https://innovid.com/,0,benign_reference,tranco,,,,2302,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0597,https://shopee.co.th/,0,benign_reference,tranco,,,,4048,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.
+U0598,https://bitly.cx/layanan-bantuan-refund-tiktok,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0599,https://ssl.web86-whatsapp.com.cn/,1,phishing,openphish,,,,,OpenPhish Community Feed; feed limitado y actualizado periódicamente.
+U0600,https://mail.ru/,0,benign_reference,tranco,,,,13,Referencia legítima aproximada: dominio popular de Tranco; no equivale a garantía absoluta de benignidad.

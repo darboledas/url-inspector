@@ -1,0 +1,3 @@
+URL Inspector 6.0
+Package release: 1.18.1
+Status: stable validated

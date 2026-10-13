@@ -1,0 +1,3 @@
+# Una URL por línea. Este archivo es solo un ejemplo de formato.
+https://example.com
+https://example.org
