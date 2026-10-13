@@ -37,7 +37,7 @@ jobs:
         run: python -m py_compile url_inspector_6.0.py benchmark_url_inspector.py batch_url_inspector.py
 
       - name: Offline unit tests
-        run: python -m unittest discover -s tests -p "test_*.py" -v
+        run: python -X utf8 -m unittest discover -s tests -p "test_*.py" -v
 
       - name: CLI smoke tests
         run: |
