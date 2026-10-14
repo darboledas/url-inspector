@@ -2,6 +2,8 @@
 
 La revisión 1.16 incorporó la suite automática de regresión y CI. La 1.17 la amplió a 32 pruebas para cubrir la metodología científica del benchmark. La 1.18 la amplió a 39 pruebas e incorporó el modo batch operativo. La 1.18.1 añade una prueba de regresión específica para la codificación UTF-8 del proceso hijo en Windows (40 pruebas).
 
+El complemento de informes UNE 197001:2019 añadió inicialmente **14 pruebas** para exportaciones, metadatos, menú Windows/Linux y reutilización offline del JSON (54 en aquella revisión). Las sucesivas revisiones incorporaron verificaciones de trazabilidad, consola, índices, cobertura técnica y fidelidad del JSON. **La versión de informes 1.3.2 suma 73 pruebas locales: 40 de la base y 33 añadidas con los complementos.**
+
 ## Principio de seguridad
 
 Las pruebas son **offline respecto a las URLs objetivo**: no visitan sitios de phishing, malware ni dominios de prueba. Las resoluciones DNS, respuestas reputacionales y escenarios SSRF relevantes se simulan mediante *mocks*. El CI tampoco necesita claves API.
@@ -17,7 +19,7 @@ run_tests.bat
 O directamente:
 
 ```bat
-python -m py_compile url_inspector_6.0.py benchmark_url_inspector.py
+python -m py_compile url_inspector_6.0.py benchmark_url_inspector.py batch_url_inspector.py informes_une_197001.py url_inspector_informes_une.py menu_url_inspector.py
 python -m unittest discover -s tests -p "test_*.py" -v
 ```
 
@@ -43,6 +45,10 @@ La suite cubre, entre otros, estos invariantes:
 - métricas por fuente/categoría y perfil temporal;
 - auditoría de solapamiento de URL/host;
 - generación de los nuevos informes científicos y comparación temporal entre campañas.
+
+- creación de informes pericial y ejecutivo sin alterar el JSON fuente;
+- menú multiplataforma, cancelación de conexiones, compatibilidad CLI y validación sintáctica del lanzador Bash;
+- una única adquisición al analizar una URL y posterior reutilización del JSON para exportar documentos.
 
 ## CI de GitHub
 

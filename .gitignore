@@ -34,3 +34,18 @@ APIKEY*.txt
 # Informes/artefactos locales que no deben publicarse por defecto
 benchmark_report_*/
 benchmark_results_*.json
+
+# Datos personales / expedientes y borradores del complemento de informes
+*datos_privados*.json
+*datos_periciales*.json
+*_datos.json
+*_pericial.pdf
+*_ejecutivo.pdf
+
+# Resultados locales y entorno virtual del menú Windows/Linux
+.venv/
+informes_locales/
+
+# Registro de consola y pericial HTML de casos reales
+*.consola.txt
+*_pericial.html

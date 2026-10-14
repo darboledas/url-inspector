@@ -85,3 +85,27 @@ Las credenciales se cargan mediante variables de entorno. No se incluyen claves 
 ## Licencia
 
 Este proyecto se distribuye bajo la **licencia MIT**. Consulte el archivo `LICENSE`. La licencia permite usar, copiar, modificar, distribuir y sublicenciar el software, incluso con fines comerciales, siempre que se conserve el aviso de copyright y la licencia. El software se proporciona sin garantía.
+
+## Complemento opcional de informes UNE 197001:2019
+
+Se incluye un generador de borradores periciales estructurados con arreglo a la UNE 197001:2019 y de informes ejecutivos sin modificar el motor calibrado. Consulte [INFORMES_UNE_197001.md](INFORMES_UNE_197001.md) para uso, campos pendientes y límites. Para abrir el **menú guiado** use `ejecutar_url_inspector_INFORMES_UNE.bat` en Windows o `./ejecutar_url_inspector_INFORMES_UNE.sh` en Linux. Ambos permiten **(1) inspeccionar una URL y conservar su JSON, o (2) crear PDF desde un JSON anterior sin nueva inspección**. Requieren Python 3.11+, crean `.venv/` si es necesario y documentan la instalación y los comandos avanzados en [INFORMES_UNE_197001.md](INFORMES_UNE_197001.md). El informe pericial es un **borrador automatizado** pendiente de revisión y firma.
+
+
+### Complemento UNE de informes 1.2
+
+Consulte [`REVISION_INFORMES_1.2.md`](REVISION_INFORMES_1.2.md) para las correcciones de presentación de PDFs (ejecutivo, tablas y reputación), instrucciones de reexportación sin red y límites periciales. La versión del motor sigue siendo 1.18.1.
+
+### Complemento de informes periciales y ejecutivos 1.3
+
+Módulos opcionales independientes del motor validado. El informe pericial se genera en
+PDF y HTML, con todos los resultados estructurados, los errores y el registro real
+de stdout/stderr cuando haya sido capturado. El ejecutivo resume el nivel operativo
+sin presentarlo como probabilidad estadística. Documentación detallada en
+`REVISION_INFORMES_1.3.md`. Los resultados y registros de consola de casos reales
+son privados y no deben incorporarse al repositorio público.
+
+## Complemento de informes 1.3.2 (motor 1.18.1)
+
+Sin modificar la calibración del motor, el generador `informes_une_197001.py` exporta informe pericial PDF y HTML completo, e informe ejecutivo PDF. La versión 1.3.2 aclara que la cobertura técnica está ponderada sobre cinco componentes del motor (URL, RDAP, TLS, HTTP y HTML), no equivale a seguridad ni incluye todas las comprobaciones posibles. También simplifica el índice PDF sin excluir campos de resultados.
+
+Para lanzar el menú interactivo desde Windows, use `ejecutar_url_inspector_INFORMES_UNE.bat`; desde Linux, `./ejecutar_url_inspector_INFORMES_UNE.sh` (con permisos de ejecución). La opción 2 genera informes offline desde JSON anterior, sin nueva inspección. Consulte `INFORMES_UNE_197001.md` y `REVISION_INFORMES_1.3.2.md`.

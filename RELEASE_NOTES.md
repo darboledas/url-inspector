@@ -31,3 +31,22 @@ Se incorpora procesamiento batch de listas TXT/CSV con deduplicación, `--dry-ru
 ## Validación independiente
 
 La escala permanece basada en una campaña independiente de 600 URLs sin solapamiento de URL ni host con el corpus de desarrollo. El umbral 8 fue el mejor por F1 e índice de Youden. Véase `docs/VALIDACION_INDEPENDIENTE_600.md`.
+
+
+## Complemento de informes UNE 197001:2019 — 1.2 (2026-10-13)
+
+- Corrección de paginación en muestras ejecutivas BOE y AMTSO (1 página por informe).
+- Representación legible de diccionarios y listas, más desglose de DNS.
+- Disponibilidad real de proveedores reputacionales priorizada frente al indicador `configured` y distinción de errores de consulta.
+- Incluye la segunda corrección del iniciador Windows.
+- Motor 1.18.1 sin modificaciones; JSON de adquisición sin cambios en reexportación offline.
+- Validación local: 58 pruebas (no equivale a nueva validación de CI Windows).
+
+
+
+## Informes 1.3.2 — revisión de presentación (motor 1.18.1)
+
+- El PDF ejecutivo, el pericial PDF y el pericial HTML explican los límites de la cobertura técnica ponderada de cinco componentes. La cobertura reputacional se presenta por separado. La cifra de cobertura no es una probabilidad de legitimidad.
+- Índice general del pericial PDF limitado a capítulos, declaraciones/firma y anejos. Se mantiene el desarrollo técnico completo y todos los campos del JSON/registro de consola en los anejos.
+- Sin cambios en `url_inspector_6.0.py`, heurísticas, reputación ni puntuaciones. Regeneración offline compatible con los JSON anteriores.
+- Pruebas de regresión adicionales para cobertura e índice. Antes de publicar, repetir CI Windows/Ubuntu, Python 3.11/3.13.

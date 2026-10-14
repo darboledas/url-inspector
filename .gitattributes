@@ -1,0 +1,5 @@
+# Mantener LF en archivos de texto
+* text=auto eol=lf
+benchmark_corpus_regression.csv -text -eol
+benchmark_corpus_regression.json -text -eol
+ejecutar_url_inspector_INFORMES_UNE.bat -text -eol

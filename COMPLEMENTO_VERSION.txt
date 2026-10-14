@@ -1,0 +1,6 @@
+Complemento de informes UNE 197001:2019 — versión 1.3.2
+Base: URL Inspector 6.0 FINAL_PUBLIC 1.18.1.
+Motor url_inspector_6.0.py congelado; no modificado.
+Windows y Linux: menú y exportación offline desde JSON.
+1.3.2: aclaración de cobertura técnica en PDF/HTML y simplificación del índice del PDF pericial (se conserva íntegro el cuerpo y anejos).
+Véase REVISION_INFORMES_1.3.2.md.
