@@ -100,14 +100,14 @@ class MenuWindowsLinuxTests(unittest.TestCase):
             self.assertEqual(Path(calls[1][0]).name, 'informes_une_197001.py')
             self.assertTrue(list(Path(temporary).glob('*.json')))
 
-    @unittest.skipUnless(shutil.which('bash'), 'Bash no disponible')
+    @unittest.skipUnless(sys.platform.startswith('linux') and shutil.which('bash'), 'Bash no disponible')
     def test_linux_launcher_help_without_dependencies(self):
         proc = subprocess.run(['bash', str(ROOT / 'ejecutar_url_inspector_INFORMES_UNE.sh'), '--help'],
                               capture_output=True, text=True, timeout=30)
         self.assertEqual(proc.returncode, 0, proc.stderr)
         self.assertIn('Sin argumentos', proc.stdout)
 
-    @unittest.skipUnless(shutil.which('bash'), 'Bash no disponible')
+    @unittest.skipUnless(sys.platform.startswith('linux') and shutil.which('bash'), 'Bash no disponible')
     def test_linux_shell_syntax(self):
         proc = subprocess.run(['bash', '-n', str(ROOT / 'ejecutar_url_inspector_INFORMES_UNE.sh')],
                               capture_output=True, text=True, timeout=30)
