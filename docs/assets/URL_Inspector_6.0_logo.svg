@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="URL Inspector 6.0: análisis técnico de URL e informes periciales">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#091828"/><stop offset="1" stop-color="#142D47"/></linearGradient></defs>
+<rect width="1200" height="270" rx="27" fill="url(#bg)"/>
+<circle cx="1144" cy="-44" r="215" fill="none" stroke="#274963" stroke-width="2" opacity=".5"/>
+<circle cx="1144" cy="-44" r="160" fill="none" stroke="#274963" stroke-width="2" opacity=".5"/>
+<circle cx="1144" cy="-44" r="103" fill="none" stroke="#274963" stroke-width="2" opacity=".5"/>
+<g transform="translate(5,0)">
+  <path d="M150 28 L232 61 V137 C232 191 203 221 150 246 C97 221 68 191 68 137 V61 Z" fill="#153451" stroke="#59D4FF" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M150 42 L217 69 V136 C217 180 193 207 150 229 C107 207 83 180 83 136 V69 Z" fill="#0D2339"/>
+  <circle cx="147" cy="129" r="54" fill="none" stroke="#C9F4FF" stroke-width="5"/>
+  <ellipse cx="147" cy="129" rx="24" ry="54" fill="none" stroke="#C9F4FF" stroke-width="4"/>
+  <path d="M94 129 H200 M108 104 Q147 116 187 104 M108 154 Q147 142 187 154" fill="none" stroke="#C9F4FF" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="188" cy="169" r="28" fill="#0A1828" stroke="#43D0F9" stroke-width="8"/>
+  <path d="M209 190 L235 216" stroke="#43D0F9" stroke-width="13" stroke-linecap="round"/>
+</g>
+<text x="312" y="120" fill="#F4FAFF" font-size="76" font-weight="750" font-family="Segoe UI, Inter, Arial, sans-serif" letter-spacing="-.8">URL Inspector</text>
+<text x="315" y="201" fill="#62D7FF" font-size="75" font-weight="750" font-family="Segoe UI, Inter, Arial, sans-serif">6.0</text>
+<path d="M459 180 H486" stroke="#3C7696" stroke-width="2"/>
+<text x="508" y="189" fill="#C5DDED" font-size="25" font-weight="400" font-family="Segoe UI, Inter, Arial, sans-serif">Análisis de URL · Evidencia digital</text>
+</svg>

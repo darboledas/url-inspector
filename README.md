@@ -1,111 +1,214 @@
+![URL Inspector 6.0](docs/assets/URL_Inspector_6.0_logo.svg)
+
 # URL Inspector 6.0
 
-URL Inspector 6.0 es una herramienta defensiva de análisis de URLs orientada a inspección técnica, reputacional y forense. Resuelve redirecciones, analiza identidad de dominio, DNS/RDAP, TLS, infraestructura, HTML y reputación externa, y genera resultados en JSON, HTML y PDF.
+[![CI: Windows y Linux](https://github.com/darboledas/url-inspector/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/darboledas/url-inspector/actions/workflows/ci.yml)
+![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)
+![Windows y Linux](https://img.shields.io/badge/Plataformas-Windows%20%7C%20Linux-informational)
+[![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green)](LICENSE)
 
-La versión estable distribuida aquí es **1.18.1**. El motor calibrado `url_inspector_6.0.py` mantiene congeladas sus heurísticas, pesos y umbrales desde la validación independiente. Las revisiones posteriores han añadido endurecimiento de seguridad, pruebas automáticas, análisis científico del benchmark y modo batch sin recalibrar el score.
+**Analizador defensivo de URL con evaluación técnica y reputacional, puntuación heurística de riesgo y generación de informes técnicos, periciales y ejecutivos.** Disponible para **Windows y Linux**, mediante terminal y menú interactivo.
 
-## Instalación
+URL Inspector permite examinar una dirección web y documentar indicadores relacionados con redirecciones, identidad del dominio, infraestructura, DNS/RDAP, certificados TLS, HTTP, contenido HTML y fuentes externas de reputación. Se orienta al análisis técnico y a la investigación defensiva; **no determina por sí solo que un sitio sea seguro, legítimo o delictivo**.
 
-Requiere Python 3.11 o superior.
+> **Versiones:** URL Inspector **6.0** · motor estable y calibrado **1.18.1** · complemento opcional de informes **1.3.2**. La interfaz gráfica de Windows todavía no forma parte de esta distribución.
+
+## ¿Para qué sirve?
+
+- **Examinar enlaces sospechosos** y documentar sus indicadores técnicos y reputacionales.
+- **Investigar incidentes** que involucren enlaces recibidos por correo, mensajería u otros canales, aplicando las precauciones operativas correspondientes.
+- **Analizar listados de URL** desde archivos TXT/CSV mediante el modo por lotes (*batch*).
+- **Conservar resultados estructurados** en JSON y generar documentos en HTML o PDF para su revisión y comunicación.
+- **Preparar borradores de informes periciales**, con estructura inspirada en **UNE 197001:2019**, o informes ejecutivos para lectores no especializados.
+- **Repetir la exportación de informes sin repetir la inspección** a partir de un JSON anterior.
+
+## ¿Quién puede utilizarlo?
+
+Está dirigido a profesionales de ciberseguridad, equipos de respuesta a incidentes, analistas de amenazas, peritos informáticos, investigadores, docentes y estudiantes con conocimientos básicos de Python y seguridad web. También puede utilizarse en auditorías y ejercicios formativos autorizados.
+
+El programa está pensado para **uso defensivo y autorizado**. El acceso a una URL potencialmente maliciosa implica riesgos y puede generar conexiones observables por terceros.
+
+## Características y ventajas
+
+| Característica | Qué aporta |
+| --- | --- |
+| Análisis de múltiples capas | Integra señales de URL, dominio, infraestructura, HTTP, TLS y HTML. |
+| Reputación externa diferenciada | Presenta alertas y cobertura reputacional por separado de la puntuación heurística. |
+| Escala documentada | Ofrece niveles operativos de riesgo de 1 a 5, con metodología y limitaciones publicadas. |
+| Informes reutilizables | Produce resultados JSON y exportaciones técnicas; el complemento añade pericial PDF/HTML y ejecutivo PDF. |
+| Trabajo sin volver a inspeccionar | Permite generar informes desde un JSON anterior conservando el archivo de entrada. |
+| Procesamiento por lotes | Admite listas TXT/CSV, deduplicación, reanudación y comprobación previa sin conexiones. |
+| Reproducibilidad | Incluye pruebas automáticas, documentación de validación y manifiesto de integridad SHA-256. |
+| Multiplataforma | Lanzadores de terminal para Windows (`.bat`) y Linux (`.sh`). |
+
+Las fuentes externas pueden requerir claves, cuotas o disponibilidad de servicios de terceros. Una fuente no consultada debe interpretarse como **no evaluada**, nunca como resultado negativo.
+
+## Inicio rápido
+
+### Requisitos
+
+- **Python 3.11 o superior**, con `pip` y `venv` disponibles.
+- Conexión a Internet para descargar dependencias la primera vez, salvo que se hayan instalado previamente desde un origen autorizado.
+- Entorno aislado o controlado al analizar destinos potencialmente hostiles.
+
+Descargue el repositorio mediante **Code → Download ZIP** en GitHub, descomprímalo y conserve los archivos juntos. Si utiliza Git:
+
+```bash
+git clone https://github.com/darboledas/url-inspector.git
+cd url-inspector
+```
+
+### Windows — menú interactivo
+
+Desde el Explorador de archivos, haga doble clic en:
+
+```text
+ejecutar_url_inspector_INFORMES_UNE.bat
+```
+
+También puede abrir CMD en la carpeta y ejecutar:
+
+```bat
+ejecutar_url_inspector_INFORMES_UNE.bat
+```
+
+El lanzador prepara un entorno virtual local `.venv` cuando es necesario y abre el menú para analizar una URL nueva o generar informes desde un JSON anterior. Los resultados se guardan por defecto en `informes_locales/`, excluido del repositorio.
+
+![Menu del complemento de informes en Windows](docs/assets/captura_menu_windows.png)
+
+*Figura 1. Menu interactivo del complemento de informes 1.3.2 en Windows.*
+
+### Linux — menú interactivo
+
+Desde un terminal, en la carpeta del repositorio:
+
+```bash
+chmod +x ejecutar_url_inspector_INFORMES_UNE.sh
+./ejecutar_url_inspector_INFORMES_UNE.sh
+```
+
+El permiso de ejecución se configura una sola vez si resulta necesario. Como alternativa puede ejecutar `bash ejecutar_url_inspector_INFORMES_UNE.sh`. Si falta `venv`, instale el paquete correspondiente a su distribución.
+
+### Opciones del menú
+
+```text
+1. Analizar una URL nueva
+2. Generar informes desde un JSON anterior
+0. Salir
+```
+
+Después de obtener un JSON, se puede elegir **pericial PDF + HTML**, **solo ejecutivo PDF**, **ambos tipos**, **solo pericial HTML** o **ningún informe adicional**. La selección de informes no vuelve a inspeccionar la URL.
+
+Para todas las opciones, instrucciones y advertencias, consulte [INFORMES_UNE_197001.md](INFORMES_UNE_197001.md).
+
+## Uso avanzado mediante terminal
+
+Si prefiere instalar las dependencias manualmente:
 
 ```bash
 python -m pip install -r requirements_v6.txt
 ```
 
-## Uso rápido
-
-Análisis individual:
+**Inspección individual** de un dominio de ejemplo:
 
 ```bash
 python url_inspector_6.0.py https://example.com --full
 ```
 
-Pruebas automáticas offline:
+**Exportación desde un análisis anterior, sin nueva inspección de la URL** (las dependencias deben estar disponibles):
 
-```bat
-run_tests.bat
+```bash
+python informes_une_197001.py resultados.json --pericial pericial.pdf --pericial-html pericial.html --ejecutivo ejecutivo.pdf
 ```
 
-Validación de una lista sin realizar conexiones:
+**Comprobación de un listado sin realizar conexiones:**
 
 ```bash
 python batch_url_inspector.py batch_urls_ejemplo.txt --dry-run
 ```
 
-Ejecución batch activa:
+**Ejecución activa por lotes** (contacta los destinos y requiere confirmación expresa):
 
 ```bash
 python batch_url_inspector.py urls.txt --acknowledge-risk
 ```
 
-El modo batch puede contactar URLs hostiles. Debe ejecutarse en un entorno apropiado y aislado cuando se analicen indicadores maliciosos.
+Las capturas de pantalla con navegador headless **no se activan con `--full`**: requieren `--screenshot` y se desaconsejan fuera de un entorno aislado al trabajar con sitios potencialmente hostiles. Para las demás opciones, consulte [el manual técnico](README_URL_Inspector_6.0.md).
 
-## Escala de riesgo
+## Interpretación de resultados
 
-La puntuación 0–100 es una puntuación heurística calibrada y **no una probabilidad de phishing o malware**. La escala adoptada es:
+La puntuación de **0 a 100 es heurística y no representa una probabilidad estadística de phishing, malware o fraude**.
 
-| Score | Nivel |
-|---:|---|
+| Puntuación | Nivel operativo |
+| ---: | --- |
 | 0–7 | 1 — Bajo |
 | 8–19 | 2 — Moderado |
 | 20–29 | 3 — Alto |
 | 30–49 | 4 — Muy alto |
 | 50–100 | 5 — Crítico |
 
-En la validación independiente de 600 URLs, el umbral 8 obtuvo sensibilidad 84,3 %, especificidad 91,3 % y F1 87,4 %. Consulte `CALIBRACION_ESCALA_RIESGO.md` y `docs/VALIDACION_INDEPENDIENTE_600.md` para el detalle y las limitaciones metodológicas.
+En una **validación independiente documentada de 600 URL** (300 maliciosas y 300 benignas), el umbral de 8 puntos alcanzó **84,3 % de sensibilidad**, **91,3 % de especificidad** y **87,4 % de F1**. Estas métricas describen aquella campaña y **no garantizan el rendimiento con URL nuevas ni sustituyen una evaluación específica del contexto de uso**.
 
-## Seguridad
+Consulte [la calibración](CALIBRACION_ESCALA_RIESGO.md) y [el informe de validación independiente](docs/VALIDACION_INDEPENDIENTE_600.md), incluidos sus límites metodológicos.
 
-El inspector bloquea destinos locales/no públicos y valida redirecciones para reducir el riesgo de SSRF. Las capturas headless son opt-in mediante `--screenshot`. La reputación negativa se presenta separada del score heurístico para evitar que un score bajo se interprete como garantía de seguridad.
+El **veredicto reputacional** se presenta por separado de la puntuación, para evitar que una alerta externa relevante quede oculta por una puntuación baja. La ausencia de alertas no garantiza seguridad.
 
-El corpus de regresión incluido contiene indicadores históricos potencialmente maliciosos. **No abra ni visite manualmente esas URLs.** Consulte `SECURITY.md`.
+## Informes periciales y ejecutivos
 
-## Estructura principal
+El complemento **1.3.2** permite generar un **borrador de informe pericial PDF y HTML** que reproduce los resultados disponibles, así como un **informe ejecutivo PDF** con una síntesis operativa. Puede incorporar, si existe, la transcripción real de consola y documentar huellas SHA-256.
 
-- `url_inspector_6.0.py`: inspector individual.
-- `batch_url_inspector.py`: procesamiento batch TXT/CSV.
-- `benchmark_url_inspector.py`: construcción, ejecución y análisis del benchmark.
-- `tests/`: suite offline de regresión.
-- `.github/workflows/ci.yml`: CI para Windows/Linux.
-- `CALIBRACION_ESCALA_RIESGO.md`: justificación de la escala.
-- `README_URL_Inspector_6.0.md`: manual técnico completo.
-- `README_BENCHMARK.md`: metodología del benchmark.
-- `README_TESTS.md`: alcance de las pruebas automáticas.
+La estructura pericial toma como referencia **UNE 197001:2019**, pero **no implica certificación de conformidad ni sustituye la intervención profesional**, la adquisición y preservación de evidencias, la cadena de custodia o la firma del perito. Los metadatos profesionales deben revisarse y cumplimentarse fuera del repositorio público.
 
-## Reproducibilidad
+La cobertura técnica ponderada de cinco componentes **no equivale a exhaustividad del análisis ni a legitimidad del sitio**. Véanse [las instrucciones del complemento](INFORMES_UNE_197001.md) y [las notas de la versión 1.3.2](REVISION_INFORMES_1.3.2.md).
 
-El repositorio incluye el corpus histórico de regresión y su SHA-256. Ese corpus sirvió para desarrollo/regresión y **no debe reutilizarse como única validación independiente** de cambios futuros en heurísticas, pesos o umbrales.
+### Ejemplos de informes generados
 
-Cualquier cambio en la lógica de puntuación debe acompañarse de una nueva validación independiente sobre un corpus fresco sin solapamiento de URL ni host.
+<img src="docs/assets/informe_pericial_tls_boe.png" alt="Ejemplo de informe pericial" width="520">
 
-## Claves y secretos
-
-Las credenciales se cargan mediante variables de entorno. No se incluyen claves en esta distribución. `.gitignore` excluye `APIKEY.txt`, `.env`, claves privadas y salidas locales.
-
-## Licencia
-
-Este proyecto se distribuye bajo la **licencia MIT**. Consulte el archivo `LICENSE`. La licencia permite usar, copiar, modificar, distribuir y sublicenciar el software, incluso con fines comerciales, siempre que se conserve el aviso de copyright y la licencia. El software se proporciona sin garantía.
-
-## Complemento opcional de informes UNE 197001:2019
-
-Se incluye un generador de borradores periciales estructurados con arreglo a la UNE 197001:2019 y de informes ejecutivos sin modificar el motor calibrado. Consulte [INFORMES_UNE_197001.md](INFORMES_UNE_197001.md) para uso, campos pendientes y límites. Para abrir el **menú guiado** use `ejecutar_url_inspector_INFORMES_UNE.bat` en Windows o `./ejecutar_url_inspector_INFORMES_UNE.sh` en Linux. Ambos permiten **(1) inspeccionar una URL y conservar su JSON, o (2) crear PDF desde un JSON anterior sin nueva inspección**. Requieren Python 3.11+, crean `.venv/` si es necesario y documentan la instalación y los comandos avanzados en [INFORMES_UNE_197001.md](INFORMES_UNE_197001.md). El informe pericial es un **borrador automatizado** pendiente de revisión y firma.
+*Figura 2. Analisis TLS de www.boe.es: extracto de un borrador pericial generado por URL Inspector 6.0.*
 
 
-### Complemento UNE de informes 1.2
 
-Consulte [`REVISION_INFORMES_1.2.md`](REVISION_INFORMES_1.2.md) para las correcciones de presentación de PDFs (ejecutivo, tablas y reputación), instrucciones de reexportación sin red y límites periciales. La versión del motor sigue siendo 1.18.1.
+## Seguridad y privacidad
 
-### Complemento de informes periciales y ejecutivos 1.3
+URL Inspector aplica restricciones a destinos locales y no públicos, validación de redirecciones y medidas frente a SSRF y DNS rebinding. Estas protecciones reducen riesgos, pero no convierten el análisis activo de sitios hostiles en una operación exenta de peligro.
 
-Módulos opcionales independientes del motor validado. El informe pericial se genera en
-PDF y HTML, con todos los resultados estructurados, los errores y el registro real
-de stdout/stderr cuando haya sido capturado. El ejecutivo resume el nivel operativo
-sin presentarlo como probabilidad estadística. Documentación detallada en
-`REVISION_INFORMES_1.3.md`. Los resultados y registros de consola de casos reales
-son privados y no deben incorporarse al repositorio público.
+- No abra manualmente las URL históricas potencialmente maliciosas incluidas en el corpus de regresión.
+- No publique archivos JSON de casos reales, informes, transcripciones, credenciales, claves API ni información personal.
+- Algunas consultas pueden acceder a proveedores externos; considere las implicaciones de confidencialidad antes de usarlas.
+- Las credenciales se configuran mediante variables de entorno; consulte [el manual técnico](README_URL_Inspector_6.0.md) y [la política de seguridad](SECURITY.md).
+- Una exportación offline no vuelve a contactar la URL analizada, pero la primera instalación de dependencias puede requerir conexión a Internet.
 
-## Complemento de informes 1.3.2 (motor 1.18.1)
+## Verificación y reproducibilidad
 
-Sin modificar la calibración del motor, el generador `informes_une_197001.py` exporta informe pericial PDF y HTML completo, e informe ejecutivo PDF. La versión 1.3.2 aclara que la cobertura técnica está ponderada sobre cinco componentes del motor (URL, RDAP, TLS, HTTP y HTML), no equivale a seguridad ni incluye todas las comprobaciones posibles. También simplifica el índice PDF sin excluir campos de resultados.
+Pruebas automáticas:
 
-Para lanzar el menú interactivo desde Windows, use `ejecutar_url_inspector_INFORMES_UNE.bat`; desde Linux, `./ejecutar_url_inspector_INFORMES_UNE.sh` (con permisos de ejecución). La opción 2 genera informes offline desde JSON anterior, sin nueva inspección. Consulte `INFORMES_UNE_197001.md` y `REVISION_INFORMES_1.3.2.md`.
+```bash
+python -m unittest discover -s tests -p "test_*.py"
+```
+
+El repositorio incluye integración continua para **Windows y Ubuntu, con Python 3.11 y 3.13**, además de un [manifiesto SHA-256](SHA256SUMS.txt) y material para reproducir comprobaciones técnicas. La aprobación de CI se refiere a las pruebas automatizadas incluidas, no a una certificación general del software.
+
+El **motor 1.18.1 se mantiene congelado**; su SHA-256 es:
+
+```text
+30c9df71e46a8444e02af91e9cc2b50c29b323a38e9b9333373fd63bf954bc6a
+```
+
+El corpus histórico sirve para regresión y **no debe reutilizarse como única validación de cambios futuros**. Toda modificación de heurísticas, pesos o umbrales exige una campaña independiente con muestras nuevas y sin solapamiento de URL ni host.
+
+## Documentación adicional
+
+- [Manual técnico y configuración de fuentes](README_URL_Inspector_6.0.md)
+- [Complemento de informes periciales y ejecutivos](INFORMES_UNE_197001.md)
+- [Revisión del complemento 1.3.2](REVISION_INFORMES_1.3.2.md)
+- [Metodología del benchmark](README_BENCHMARK.md)
+- [Validación independiente de 600 URL](docs/VALIDACION_INDEPENDIENTE_600.md)
+- [Pruebas y CI](README_TESTS.md)
+- [Notas de versión](RELEASE_NOTES.md)
+- [Seguridad](SECURITY.md)
+- [Licencia](LICENSE)
+
+## Licencia y autoría
+
+**Copyright © 2026 David Arboledas.** Distribuido bajo la [licencia MIT](LICENSE), que permite usar, modificar y redistribuir el software conforme a sus condiciones. Se proporciona **sin garantías**.
